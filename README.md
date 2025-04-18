@@ -30,7 +30,7 @@
 | **OpenX**          | [Open X-Embodiment: Robotic Learning Datasets and RT‑X Models](https://arxiv.org/abs/2310.08864)  | https://robotics-transformer-x.github.io/ |
 | **RoboMIND**       | [RoboMIND: Benchmark on Multi-embodiment Intelligence](https://arxiv.org/abs/2412.13877)  | https://x-humanoid-robomind.github.io/  |
 | **Libero**         | [LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) | https://github.com/Lifelong-Robot-Learning/LIBERO |
-| **RoboVerse**      | [ROBOVERSE: A Unified Benchmark for Scalable and Generalizable Vision-Language Robotic Manipulation (CVPR 2024 Draft)](https://embodied-ai.org/papers/2024/16_RoboVerse_A_Unified_Simulat.pdf) | https://github.com/RoboVerseOrg/RoboVerse :contentReference |
+| **RoboVerse**      | [ROBOVERSE: A Unified Benchmark for Scalable and Generalizable Vision-Language Robotic Manipulation (CVPR 2024 Draft)](https://embodied-ai.org/papers/2024/16_RoboVerse_A_Unified_Simulat.pdf) | https://github.com/RoboVerseOrg/RoboVerse |
 | **CALVIN**         | [CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks](https://arxiv.org/abs/2112.03227) | https://github.com/mees/calvin    |
 
 
