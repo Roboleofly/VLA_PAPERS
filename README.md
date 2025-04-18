@@ -22,6 +22,7 @@
 | **SERL**           | [SERL: A Software Suite for Sample‑Efficient Robotic Reinforcement Learning](https://arxiv.org/abs/2401.16013)               | https://github.com/serl-robot/serl                           |
 | **NVIDIA‑GOOT‑T1** | [Isaac GR00T N1: An Open Foundation Model for Humanoid Robots](https://nvidianews.nvidia.com/news/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks) | https://github.com/NVIDIA-Omniverse/IsaacSDK                 |
 | **HiRT**     | [HiRT: Enhacing Robotic Control with Hierarchical Robot Transformers](https://arxiv.org/pdf/2410.05273) |        |
+| **Gemini Robotics**     | [Gemini Robotics: Bring AI into the Physical World](https://arxiv.org/abs/2503.20020) |        |
 
 ## 数据集 / Benchmark
 
