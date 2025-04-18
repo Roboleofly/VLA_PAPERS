@@ -21,7 +21,7 @@
 | **Transporter** | [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/abs/2011.12917)               | https://github.com/google-research/google-research/tree/master/transporter |
 | **SERL**           | [SERL: A Software Suite for Sample‑Efficient Robotic Reinforcement Learning](https://arxiv.org/abs/2401.16013)               | https://github.com/serl-robot/serl                           |
 | **NVIDIA‑GOOT‑T1** | [Isaac GR00T N1: An Open Foundation Model for Humanoid Robots](https://nvidianews.nvidia.com/news/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks) | https://github.com/NVIDIA-Omniverse/IsaacSDK                 |
-| **HI‑Robotic**     | [Hi Robot: Open‑Ended Instruction Following with Hierarchical Vision‑Language‑Action Models](https://arxiv.org/abs/2502.19417) | https://github.com/hierarchical-robot/hi-robotic             |
+| **HiRT**     | [HiRT: Enhacing Robotic Control with Hierarchical Robot Transformers](https://arxiv.org/pdf/2410.05273) |        |
 
 ## 数据集 / Benchmark
 
