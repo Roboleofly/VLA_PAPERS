@@ -17,5 +17,3 @@
 | **RDT‑1B**    | [RDT‑1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) | https://github.com/robotics-diffusion-transformer/rdt-1b    |
 
 > *注：GitHub 链接如未找到官方仓库，则列出社区复刻或项目主页。欢迎补充或纠正。*
-
-你可以将上述表格直接复制到你的 `README.md` 中，按需增删或补全。
