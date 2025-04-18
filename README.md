@@ -25,7 +25,8 @@
 
 ## 数据集 / Benchmark
 
-|--------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| 项目简称       | 论文题目 (ArXiv 链接)                                                                                  | GitHub 代码链接                                              |
+|---------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
 | **OpenX**          | [Open X-Embodiment: Robotic Learning Datasets and RT‑X Models](https://arxiv.org/abs/2310.08864)  | https://robotics-transformer-x.github.io/ |
 | **RoboMIND**       | [RoboMIND: Benchmark on Multi-embodiment Intelligence](https://arxiv.org/abs/2412.13877)  | https://x-humanoid-robomind.github.io/  |
 | **Libero**         | [LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) | https://github.com/Lifelong-Robot-Learning/LIBERO |
