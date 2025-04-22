@@ -24,6 +24,7 @@
 | **NVIDIA‑GOOT‑T1** | [Isaac GR00T N1: An Open Foundation Model for Humanoid Robots](https://nvidianews.nvidia.com/news/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks) | https://github.com/NVIDIA-Omniverse/IsaacSDK                 |
 | **HiRT**     | [HiRT: Enhacing Robotic Control with Hierarchical Robot Transformers](https://arxiv.org/pdf/2410.05273) |        |
 | **Gemini Robotics**     | [Gemini Robotics: Bring AI into the Physical World](https://arxiv.org/abs/2503.20020) |        |
+| **ConRFT** | [ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](https://arxiv.org/pdf/2502.05450) |https://github.com/cccedric/conrft|
 
 ## 数据集 / Benchmark
 
