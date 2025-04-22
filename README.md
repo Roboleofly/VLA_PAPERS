@@ -20,9 +20,7 @@
 | **CLIPort**     | [CLIPort: What and Where Pathways for Robotic Manipulation](https://arxiv.org/abs/2107.03389)                                | https://github.com/harvard-robotics/cliport                    |
 | **Transporter** | [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/abs/2011.12917)               | https://github.com/google-research/google-research/tree/master/transporter |
 | **SERL**           | [SERL: A Software Suite for Sample‑Efficient Robotic Reinforcement Learning](https://arxiv.org/abs/2401.16013)               | https://github.com/serl-robot/serl                           |
-
 | **BRS** | [BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities](https://arxiv.org/pdf/2503.05652) |  https://github.com/behavior-robot-suite/brs-algo   |
-
 | **NVIDIA‑GOOT‑T1** | [Isaac GR00T N1: An Open Foundation Model for Humanoid Robots](https://nvidianews.nvidia.com/news/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks) | https://github.com/NVIDIA-Omniverse/IsaacSDK                 |
 | **HiRT**     | [HiRT: Enhacing Robotic Control with Hierarchical Robot Transformers](https://arxiv.org/pdf/2410.05273) |        |
 | **Gemini Robotics**     | [Gemini Robotics: Bring AI into the Physical World](https://arxiv.org/abs/2503.20020) |        |
