@@ -14,7 +14,7 @@
 | **3DP (DP3)** | [3D Diffusion Policy: Generalizable Visuomotor Control with 3D Representations](https://arxiv.org/abs/2403.03954) | https://github.com/YanjieZe/3D-Diffusion-Policy              |
 | **OpenVLA**   | [OpenVLA: An Open‑Source Vision‑Language‑Action Model](https://arxiv.org/abs/2406.09246) | https://github.com/openvla/openvla                           |
 | **OpenVLA‑OFT** | [Fine‑Tuning Vision‑Language‑Action Models: Optimizing Speed and Success](https://arxiv.org/abs/2502.19645)| https://openvla-oft.github.io/                             |
-| **π₀**        | [A Vision‑Language‑Action Flow Model for General Robot Control (π₀)](https://arxiv.org/abs/2410.24164) | https://github.com/lucidrains/pi-zero-pytorch               |
+| **π₀**        | [A Vision‑Language‑Action Flow Model for General Robot Control (π₀)](https://arxiv.org/abs/2410.24164) | https://github.com/Physical-Intelligence/openpi              |
 | **π₀‑FAST**   | [Efficient Action Tokenization for Vision‑Language‑Action Models (FAST)](https://arxiv.org/abs/2501.09747)  | https://github.com/Physical-Intelligence/openpi              |
 |**π0.5**|[π0.5: a Vision-Language-Action Model with Open-World Generalization](https://www.physicalintelligence.company/download/pi05.pdf)||
 | **RDT‑1B**    | [RDT‑1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) | https://github.com/robotics-diffusion-transformer/rdt-1b    |
