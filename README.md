@@ -16,6 +16,7 @@
 | **OpenVLA‑OFT** | [Fine‑Tuning Vision‑Language‑Action Models: Optimizing Speed and Success](https://arxiv.org/abs/2502.19645)| https://openvla-oft.github.io/                             |
 | **π₀**        | [A Vision‑Language‑Action Flow Model for General Robot Control (π₀)](https://arxiv.org/abs/2410.24164) | https://github.com/lucidrains/pi-zero-pytorch               |
 | **π₀‑FAST**   | [Efficient Action Tokenization for Vision‑Language‑Action Models (FAST)](https://arxiv.org/abs/2501.09747)  | https://github.com/Physical-Intelligence/openpi              |
+|**π0.5**|[π0.5: a Vision-Language-Action Model with Open-World Generalization](π0.5: a Vision-Language-Action Model with Open-World Generalization)|https://www.physicalintelligence.company/download/pi05.pdf|
 | **RDT‑1B**    | [RDT‑1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) | https://github.com/robotics-diffusion-transformer/rdt-1b    |
 | **CLIPort**     | [CLIPort: What and Where Pathways for Robotic Manipulation](https://arxiv.org/abs/2107.03389)                                | https://github.com/harvard-robotics/cliport                    |
 | **Transporter** | [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/abs/2011.12917)               | https://github.com/google-research/google-research/tree/master/transporter |
