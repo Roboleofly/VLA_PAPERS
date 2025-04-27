@@ -36,7 +36,8 @@
 | **Libero**         | [LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) | https://github.com/Lifelong-Robot-Learning/LIBERO |
 | **RoboVerse**      | [ROBOVERSE: A Unified Benchmark for Scalable and Generalizable Vision-Language Robotic Manipulation (CVPR 2024 Draft)](https://embodied-ai.org/papers/2024/16_RoboVerse_A_Unified_Simulat.pdf) | https://github.com/RoboVerseOrg/RoboVerse |
 | **CALVIN**         | [CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks](https://arxiv.org/abs/2112.03227) | https://github.com/mees/calvin    |
-| **RoboTwin** | [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twin](https://arxiv.org/pdf/2504.13059) | https://arxiv.org/pdf/2504.13059 |
+| **RoboTwin** | [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twin](https://arxiv.org/pdf/2504.13059) | https://github.com/TianxingChen/RoboTwin |
+| **DROID** |[DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset](https://arxiv.org/abs/2403.12945) | https://github.com/droid-dataset/droid_policy_learning |
 
 
 
