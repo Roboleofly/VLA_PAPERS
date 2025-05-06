@@ -26,6 +26,7 @@
 | **HiRT**     | [HiRT: Enhacing Robotic Control with Hierarchical Robot Transformers](https://arxiv.org/pdf/2410.05273) |        |
 | **Gemini Robotics**     | [Gemini Robotics: Bring AI into the Physical World](https://arxiv.org/abs/2503.20020) |        |
 | **ConRFT** | [ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](https://arxiv.org/pdf/2502.05450) |https://github.com/cccedric/conrft|
+| **DYNA-1** | [Dynamism v1 (DYNA-1) Model: A Breakthrough in Performance and Production-Ready Embodied AI](https://www.dyna.co/research) | |
 
 ## 数据集 / Benchmark
 
