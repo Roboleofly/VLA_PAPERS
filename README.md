@@ -22,7 +22,7 @@
 | **Transporter** | [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/abs/2011.12917)               | https://github.com/google-research/google-research/tree/master/transporter |
 | **SERL**           | [SERL: A Software Suite for Sample‑Efficient Robotic Reinforcement Learning](https://arxiv.org/abs/2401.16013)               | https://github.com/serl-robot/serl                           |
 | **BRS** | [BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities](https://arxiv.org/pdf/2503.05652) |  https://github.com/behavior-robot-suite/brs-algo   |
-| **NVIDIA‑GOOT‑T1** | [Isaac GR00T N1: An Open Foundation Model for Humanoid Robots](https://nvidianews.nvidia.com/news/nvidia-isaac-gr00t-n1-open-humanoid-robot-foundation-model-simulation-frameworks) | https://github.com/NVIDIA-Omniverse/IsaacSDK                 |
+| **NVIDIA‑GOOT‑T1** | [Isaac GR00T N1: An Open Foundation Model for Humanoid Robots](https://arxiv.org/pdf/2503.14734) | https://github.com/NVIDIA/Isaac-GR00T     |
 | **HiRT**     | [HiRT: Enhacing Robotic Control with Hierarchical Robot Transformers](https://arxiv.org/pdf/2410.05273) |        |
 | **Gemini Robotics**     | [Gemini Robotics: Bring AI into the Physical World](https://arxiv.org/abs/2503.20020) |        |
 | **ConRFT** | [ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](https://arxiv.org/pdf/2502.05450) |https://github.com/cccedric/conrft|
