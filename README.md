@@ -46,7 +46,7 @@
 |---------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
 |**Cosmos**|[Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/pdf/2501.03575)|https://github.com/nvidia-cosmos|
 |**WorldScore**|[WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/pdf/2504.00983)|https://github.com/haoyi-duan/WorldScore|
-|**TesserAc**|[ TesserAct: Learning 4D Embodied World Models](https://arxiv.org/pdf/2504.20995)|https://github.com/tesseract-ocr/tesseract|
+|**TesserAct**|[ TesserAct: Learning 4D Embodied World Models](https://arxiv.org/pdf/2504.20995)|https://github.com/tesseract-ocr/tesseract|
 
 
 
