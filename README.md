@@ -27,6 +27,7 @@
 | **Gemini Robotics**     | [Gemini Robotics: Bring AI into the Physical World](https://arxiv.org/abs/2503.20020) |        |
 | **ConRFT** | [ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy](https://arxiv.org/pdf/2502.05450) |https://github.com/cccedric/conrft|
 | **DYNA-1** | [Dynamism v1 (DYNA-1) Model: A Breakthrough in Performance and Production-Ready Embodied AI](https://www.dyna.co/research) | |
+|**Video Prediction Policy**| [Video Prediction Policy A Generalist Robot Policy with Predictive Visual Representations](https://arxiv.org/pdf/2412.14803)| https://github.com/roboterax/video-prediction-policy |
 
 ## 数据集 / Benchmark
 
