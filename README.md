@@ -41,6 +41,11 @@
 | **RoboTwin** | [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twin](https://arxiv.org/pdf/2504.13059) | https://github.com/TianxingChen/RoboTwin |
 | **DROID** |[DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset](https://arxiv.org/abs/2403.12945) | https://github.com/droid-dataset/droid_policy_learning |
 
+## 世界模型
+|**Cosmos**|[Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/pdf/2501.03575)|https://github.com/nvidia-cosmos|
+|**WorldScore**|[WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/pdf/2504.00983)|https://github.com/haoyi-duan/WorldScore|
+|**TesserAc**|[ TesserAct: Learning 4D Embodied World Models](https://arxiv.org/pdf/2504.20995)|https://github.com/tesseract-ocr/tesseract|
+
 
 
 
