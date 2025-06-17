@@ -29,7 +29,7 @@
 | **DYNA-1** | [Dynamism v1 (DYNA-1) Model: A Breakthrough in Performance and Production-Ready Embodied AI](https://www.dyna.co/research) | |
 |**Video Prediction Policy**| [Video Prediction Policy A Generalist Robot Policy with Predictive Visual Representations](https://arxiv.org/pdf/2412.14803)| https://github.com/roboterax/video-prediction-policy |
 |**Act Anywhere**| [Learning to Act Anywhere with Task-centric Latent Actions](https://arxiv.org/pdf/2505.06111) |https://github.com/OpenDriveLab/UniVLA|
-
+|**DexWild**|[DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies](https://arxiv.org/pdf/2505.07813)|https://github.com/dexwild/dexwild|
 
 ## 数据集 / Benchmark
 
