@@ -42,6 +42,7 @@
 | **CALVIN**         | [CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks](https://arxiv.org/abs/2112.03227) | https://github.com/mees/calvin    |
 | **RoboTwin** | [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twin](https://arxiv.org/pdf/2504.13059) | https://github.com/TianxingChen/RoboTwin |
 | **DROID** |[DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset](https://arxiv.org/abs/2403.12945) | https://github.com/droid-dataset/droid_policy_learning |
+| **RoboTwin2.0** |[RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://arxiv.org/pdf/2506.18088)|https://github.com/robotwin-Platform/RoboTwin|
 
 ## 世界模型
 | 项目简称       | 论文题目 (ArXiv 链接)                                                                                  | GitHub 代码链接                                              |
