@@ -30,7 +30,7 @@
 |**Video Prediction Policy**| [Video Prediction Policy A Generalist Robot Policy with Predictive Visual Representations](https://arxiv.org/pdf/2412.14803)| https://github.com/roboterax/video-prediction-policy |
 |**Act Anywhere**| [Learning to Act Anywhere with Task-centric Latent Actions](https://arxiv.org/pdf/2505.06111) |https://github.com/OpenDriveLab/UniVLA|
 |**DexWild**|[DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies](https://arxiv.org/pdf/2505.07813)|https://github.com/dexwild/dexwild|
-
+|**GR-3**|[GR-3 Technical Report](https://arxiv.org/pdf/2507.15493)|https://seed.bytedance.com/zh/GR3|
 ## 数据集 / Benchmark
 
 | 项目简称       | 论文题目 (ArXiv 链接)                                                                                  | GitHub 代码链接                                              |
