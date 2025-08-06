@@ -31,7 +31,11 @@
 |**Act Anywhere**| [Learning to Act Anywhere with Task-centric Latent Actions](https://arxiv.org/pdf/2505.06111) |https://github.com/OpenDriveLab/UniVLA|
 |**DexWild**|[DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies](https://arxiv.org/pdf/2505.07813)|https://github.com/dexwild/dexwild|
 |**GR-3**|[GR-3 Technical Report](https://arxiv.org/pdf/2507.15493)|https://seed.bytedance.com/zh/GR3|
-## 数据集 / Benchmark
+|**OpenHelix**|[OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation](https://arxiv.org/pdf/2505.03912)|https://github.com/OpenHelix-robot/OpenHelix|
+|**Fast-in-Slow**|[Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning](https://arxiv.org/pdf/2506.01953)|https://github.com/CHEN-H01/Fast-in-Slow|
+|**HybridVLA**|[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](https://arxiv.org/pdf/2503.10631)|https://github.com/PKU-HMI-Lab/Hybrid-VLA|
+
+## 数据集 / Benchmark / Scaling
 
 | 项目简称       | 论文题目 (ArXiv 链接)                                                                                  | GitHub 代码链接                                              |
 |---------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
@@ -43,6 +47,7 @@
 | **RoboTwin** | [RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twin](https://arxiv.org/pdf/2504.13059) | https://github.com/TianxingChen/RoboTwin |
 | **DROID** |[DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset](https://arxiv.org/abs/2403.12945) | https://github.com/droid-dataset/droid_policy_learning |
 | **RoboTwin2.0** |[RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation](https://arxiv.org/pdf/2506.18088)|https://github.com/robotwin-Platform/RoboTwin|
+|**Diversity for Scalable Robotic Manipulation**|[Is Diversity All You Need for Scalable Robotic Manipulation?](https://arxiv.org/pdf/2507.06219)||
 
 ## 世界模型
 | 项目简称       | 论文题目 (ArXiv 链接)                                                                                  | GitHub 代码链接                                              |
