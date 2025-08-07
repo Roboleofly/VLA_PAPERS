@@ -18,6 +18,7 @@
 | **π₀‑FAST**   | [Efficient Action Tokenization for Vision‑Language‑Action Models (FAST)](https://arxiv.org/abs/2501.09747)  | https://github.com/Physical-Intelligence/openpi              |
 |**π0.5**|[π0.5: a Vision-Language-Action Model with Open-World Generalization](https://www.physicalintelligence.company/download/pi05.pdf)||
 | **RDT‑1B**    | [RDT‑1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864) | https://github.com/robotics-diffusion-transformer/rdt-1b    |
+|**AgiBot World Colosseo**|[AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems](https://arxiv.org/pdf/2503.06669)|https://github.com/OpenDriveLab/Agibot-World|
 | **CLIPort**     | [CLIPort: What and Where Pathways for Robotic Manipulation](https://arxiv.org/abs/2107.03389)                                | https://github.com/harvard-robotics/cliport                    |
 | **Transporter** | [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/abs/2011.12917)               | https://github.com/google-research/google-research/tree/master/transporter |
 | **SERL**           | [SERL: A Software Suite for Sample‑Efficient Robotic Reinforcement Learning](https://arxiv.org/abs/2401.16013)               | https://github.com/serl-robot/serl                           |
