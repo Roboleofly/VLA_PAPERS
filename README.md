@@ -35,6 +35,7 @@
 |**Fast-in-Slow**|[Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning](https://arxiv.org/pdf/2506.01953)|https://github.com/CHEN-H01/Fast-in-Slow|
 |**HybridVLA**|[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](https://arxiv.org/pdf/2503.10631)|https://github.com/PKU-HMI-Lab/Hybrid-VLA|
 |**CO-RFT**|[CO-RFT: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement](https://www.arxiv.org/pdf/2508.02219)||
+|**villa-X**|[villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models](https://arxiv.org/pdf/2507.23682)|https://github.com/microsoft/villa-x|
 
 ## 数据集 / Benchmark / Scaling
 
