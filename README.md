@@ -37,7 +37,7 @@
 |**HybridVLA**|[HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model](https://arxiv.org/pdf/2503.10631)|https://github.com/PKU-HMI-Lab/Hybrid-VLA|
 |**CO-RFT**|[CO-RFT: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement](https://www.arxiv.org/pdf/2508.02219)||
 |**villa-X**|[villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models](https://arxiv.org/pdf/2507.23682)|https://github.com/microsoft/villa-x|
-
+|**H-RDT**|[H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation](https://arxiv.org/pdf/2507.23523)|https://github.com/HongzheBi/H_RDT|
 ## 数据集 / Benchmark / Scaling
 
 | 项目简称       | 论文题目 (ArXiv 链接)                                                                                  | GitHub 代码链接                                              |
